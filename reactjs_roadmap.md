@@ -25,3 +25,5 @@
    - Next.js (https://nextjs.org/docs/getting-started)
 10. Static site generator
     - Gatsby.js (https://www.gatsbyjs.com/docs/quick-start/)
+11. Predictable state container for JavaScript apps.
+    - Redux.js (https://redux.js.org/introduction/getting-started)
